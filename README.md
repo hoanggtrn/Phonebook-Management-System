@@ -34,9 +34,6 @@ The system uses two main classes:
 2. Compile and run `main.cpp`.
 3. Follow the command-line instructions to manage your contacts.
 
-## 📸 Screenshots (Optional)
-_Add images or terminal outputs if available_
-
 ## 👤 Contributors
 - Trần Nguyễn Khánh Hoàng – UI & Testing  
 - Đỗ Lê Việt Hoàng – Add/Edit Functions  
